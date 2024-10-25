@@ -5,3 +5,5 @@
 __pycache__
 .env
 poetry.lock
+travel2.backup.sqlite
+travel2.sqlite
